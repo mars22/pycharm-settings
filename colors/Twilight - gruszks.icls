@@ -3,19 +3,22 @@
     <property name="created">2016-08-08T23:08:02</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2016.2.0.0</property>
-    <property name="modified">2016-08-08T23:44:09</property>
+    <property name="modified">2016-08-09T00:00:08</property>
     <property name="originalScheme">Twilight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="8f9d5e" />
     <option name="CARET_COLOR" value="a7a7a7" />
     <option name="CARET_ROW_COLOR" value="333333" />
     <option name="CONSOLE_BACKGROUND_KEY" value="141414" />
-    <option name="GUTTER_BACKGROUND" value="141414" />
+    <option name="GUTTER_BACKGROUND" value="2e2e2e" />
     <option name="INDENT_GUIDE" value="4e4e4e" />
-    <option name="LINE_NUMBERS_COLOR" value="f8f8f8" />
+    <option name="LINE_NUMBERS_COLOR" value="d6d6d6" />
+    <option name="MODIFIED_LINES_COLOR" value="7287a6" />
+    <option name="RIGHT_MARGIN_COLOR" value="585858" />
     <option name="SELECTED_INDENT_GUIDE" value="4e4e4e" />
     <option name="SELECTION_BACKGROUND" value="3c3f42" />
     <option name="WHITESPACES" value="4e4e4e" />
