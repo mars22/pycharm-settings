@@ -1,9 +1,9 @@
 <scheme name="Twilight - gruszks" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="Consolas for Powerline FixedD" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="8f9d5e" />
     <option name="CARET_COLOR" value="a7a7a7" />
