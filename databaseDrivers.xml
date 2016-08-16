@@ -30,6 +30,12 @@
     </driver>
     <driver id="postgresql" name="PostgreSQL" dialect="PostgreSQL">
       <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$USER_HOME$/Library/Preferences/PyCharm20/jdbc-drivers/postgresql-driver-license.txt</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/Library/Preferences/PyCharm20/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+      </library>
     </driver>
     <driver id="db2" name="DB2 (LUW)" dialect="DB2">
       <option name="auto-sync" value="false" />
