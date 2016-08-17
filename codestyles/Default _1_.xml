@@ -3,6 +3,7 @@
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <Python>
+    <option name="BLANK_LINES_AFTER_LOCAL_IMPORTS" value="1" />
     <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
   </Python>
 </code_scheme>
