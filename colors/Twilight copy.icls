@@ -1,11 +1,4 @@
 <scheme name="Twilight copy" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2016-08-16T20:49:00</property>
-    <property name="ide">Python</property>
-    <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2016-08-16T20:56:45</property>
-    <property name="originalScheme">Twilight</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -14,7 +7,7 @@
     <option name="CARET_ROW_COLOR" value="1b1b1b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="141414" />
     <option name="FILESTATUS_MODIFIED" value="22a05d" />
-    <option name="FILESTATUS_modifiedOutside" value="22a05d" />
+    <option name="FILESTATUS_modifiedOutside" value="" />
     <option name="GUTTER_BACKGROUND" value="141414" />
     <option name="INDENT_GUIDE" value="4e4e4e" />
     <option name="LINE_NUMBERS_COLOR" value="f8f8f8" />
