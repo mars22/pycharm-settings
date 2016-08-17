@@ -1,7 +1,8 @@
 <scheme name="Twilight copy" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="Monaco" />
   <colors>
     <option name="CARET_COLOR" value="a7a7a7" />
     <option name="CARET_ROW_COLOR" value="1b1b1b" />
