@@ -1747,7 +1747,7 @@
         <entry key="Djamo" value="" />
         <entry key="DjanJinja" value="" />
         <entry key="Djang" value="" />
-        <entry key="Django" value="" />
+        <entry key="Django" value="1.10" />
         <entry key="Django-Accounts" value="" />
         <entry key="Django-Actuary" value="" />
         <entry key="Django-ArrayAccum" value="" />
@@ -11201,7 +11201,7 @@
         <entry key="alterootheme.lazydays" value="" />
         <entry key="alterparagraphs" value="" />
         <entry key="altf2" value="" />
-        <entry key="altgraph" value="" />
+        <entry key="altgraph" value="0.12" />
         <entry key="altin" value="" />
         <entry key="altitude" value="" />
         <entry key="altmetric" value="" />
@@ -11846,7 +11846,7 @@
         <entry key="applyaf" value="" />
         <entry key="appname" value="" />
         <entry key="appnexus-client" value="" />
-        <entry key="appnope" value="" />
+        <entry key="appnope" value="0.1.0" />
         <entry key="appoints" value="" />
         <entry key="appomatic" value="" />
         <entry key="appomatic_admin" value="" />
@@ -12515,7 +12515,7 @@
         <entry key="astrodendro" value="" />
         <entry key="astrodynamics" value="" />
         <entry key="astrogrid" value="" />
-        <entry key="astroid" value="" />
+        <entry key="astroid" value="1.4.8" />
         <entry key="astroimtools" value="" />
         <entry key="astrolabe" value="" />
         <entry key="astrolib.coords" value="" />
@@ -17846,7 +17846,7 @@
         <entry key="clicast" value="" />
         <entry key="cliche" value="" />
         <entry key="clicheck" value="" />
-        <entry key="click" value="" />
+        <entry key="click" value="6.6" />
         <entry key="click-config" value="" />
         <entry key="click-default-group" value="" />
         <entry key="click-didyoumean" value="" />
@@ -19863,7 +19863,7 @@
         <entry key="color_balance" value="" />
         <entry key="color_helpers" value="" />
         <entry key="color_transfer" value="" />
-        <entry key="colorama" value="" />
+        <entry key="colorama" value="0.3.7" />
         <entry key="colorbrewer" value="" />
         <entry key="colorcells" value="" />
         <entry key="colorclass" value="" />
@@ -20720,7 +20720,7 @@
         <entry key="cover-rage-client" value="" />
         <entry key="cover-rage-server" value="" />
         <entry key="cover_grabber" value="" />
-        <entry key="coverage" value="" />
+        <entry key="coverage" value="4.2" />
         <entry key="coverage-badge" value="" />
         <entry key="coverage-reporter" value="" />
         <entry key="coverage-tools" value="" />
@@ -22604,7 +22604,7 @@
         <entry key="decorated" value="" />
         <entry key="decorating" value="" />
         <entry key="decorative" value="" />
-        <entry key="decorator" value="" />
+        <entry key="decorator" value="4.0.10" />
         <entry key="decorator-args" value="" />
         <entry key="decorators" value="" />
         <entry key="decoroute" value="" />
@@ -24050,7 +24050,7 @@
         <entry key="django-autocomplete-light-bsc" value="" />
         <entry key="django-autocomplete-x" value="" />
         <entry key="django-autoconfig" value="" />
-        <entry key="django-autofixture" value="" />
+        <entry key="django-autofixture" value="0.12.1" />
         <entry key="django-autohide-help" value="" />
         <entry key="django-autolinks" value="" />
         <entry key="django-autoload-fixtures" value="" />
@@ -25764,7 +25764,7 @@
         <entry key="django-files" value="" />
         <entry key="django-filetransfers" value="" />
         <entry key="django-filmmap" value="" />
-        <entry key="django-filter" value="" />
+        <entry key="django-filter" value="0.14.0" />
         <entry key="django-filtered-form" value="" />
         <entry key="django-filtered-mail" value="" />
         <entry key="django-filternaut" value="" />
@@ -27486,7 +27486,7 @@
         <entry key="django-nonrel-enuff" value="" />
         <entry key="django-nopassword" value="" />
         <entry key="django-normalized-filefield" value="" />
-        <entry key="django-nose" value="" />
+        <entry key="django-nose" value="1.4.4" />
         <entry key="django-nose-lint" value="" />
         <entry key="django-nose-qunit" value="" />
         <entry key="django-nose-selenium" value="" />
@@ -27739,7 +27739,7 @@
         <entry key="django-paloma" value="" />
         <entry key="django-pam" value="" />
         <entry key="django-panacea" value="" />
-        <entry key="django-pandas" value="" />
+        <entry key="django-pandas" value="0.4.1" />
         <entry key="django-pandora" value="" />
         <entry key="django-pangea" value="" />
         <entry key="django-panorama" value="" />
@@ -28313,7 +28313,7 @@
         <entry key="django-redirecturls" value="" />
         <entry key="django-redis" value="" />
         <entry key="django-redis-admin" value="" />
-        <entry key="django-redis-cache" value="" />
+        <entry key="django-redis-cache" value="1.6.5" />
         <entry key="django-redis-cluster" value="" />
         <entry key="django-redis-constant" value="" />
         <entry key="django-redis-mailer" value="" />
@@ -28592,7 +28592,7 @@
         <entry key="django-roxyfileman" value="" />
         <entry key="django-rpc" value="" />
         <entry key="django-rpy2" value="" />
-        <entry key="django-rq" value="" />
+        <entry key="django-rq" value="0.9.2" />
         <entry key="django-rq-dashboard" value="" />
         <entry key="django-rq-email-backend" value="" />
         <entry key="django-rq-jobs" value="" />
@@ -30966,7 +30966,7 @@
         <entry key="djangorecipe" value="" />
         <entry key="djangorecipebook" value="" />
         <entry key="djangorest_proxy" value="" />
-        <entry key="djangorestframework" value="" />
+        <entry key="djangorestframework" value="3.4.6" />
         <entry key="djangorestframework-apidoc" value="" />
         <entry key="djangorestframework-bulk" value="" />
         <entry key="djangorestframework-camel-case" value="" />
@@ -34549,7 +34549,7 @@
         <entry key="failureaction" value="" />
         <entry key="fairy-slipper" value="" />
         <entry key="fake" value="" />
-        <entry key="fake-factory" value="" />
+        <entry key="fake-factory" value="0.6.0" />
         <entry key="fake-go-contacts" value="" />
         <entry key="fake-switches" value="" />
         <entry key="fake-useragent" value="" />
@@ -38531,7 +38531,7 @@
         <entry key="gnuplot-py" value="" />
         <entry key="gnuplot_kernel" value="" />
         <entry key="gnuplotlib" value="" />
-        <entry key="gnureadline" value="" />
+        <entry key="gnureadline" value="6.3.3" />
         <entry key="gnusocial" value="" />
         <entry key="gnusrss" value="" />
         <entry key="go" value="" />
@@ -42745,7 +42745,7 @@
         <entry key="ipystata" value="" />
         <entry key="ipytangle" value="" />
         <entry key="ipytest" value="" />
-        <entry key="ipython" value="" />
+        <entry key="ipython" value="5.1.0" />
         <entry key="ipython-animated-array" value="" />
         <entry key="ipython-autotime" value="" />
         <entry key="ipython-beautifulsoup" value="" />
@@ -45894,7 +45894,7 @@
         <entry key="lazr.uri" value="" />
         <entry key="lazr_postgresql" value="" />
         <entry key="lazy" value="" />
-        <entry key="lazy-object-proxy" value="" />
+        <entry key="lazy-object-proxy" value="1.2.2" />
         <entry key="lazy-paged-sequence" value="" />
         <entry key="lazy-property" value="" />
         <entry key="lazy-reload" value="" />
@@ -47876,7 +47876,7 @@
         <entry key="machinist" value="" />
         <entry key="macho_analysis" value="" />
         <entry key="machobot" value="" />
-        <entry key="macholib" value="" />
+        <entry key="macholib" value="1.7" />
         <entry key="machop" value="" />
         <entry key="machotools" value="" />
         <entry key="macht" value="" />
@@ -48538,7 +48538,7 @@
         <entry key="matmodlab" value="" />
         <entry key="matop" value="" />
         <entry key="matphys" value="" />
-        <entry key="matplotlib" value="" />
+        <entry key="matplotlib" value="1.5.2" />
         <entry key="matplotlib-colorbar" value="" />
         <entry key="matplotlib-hep" value="" />
         <entry key="matplotlib-scalebar" value="" />
@@ -50367,7 +50367,7 @@
         <entry key="modulecmd" value="" />
         <entry key="moduledict" value="" />
         <entry key="modulefinder" value="" />
-        <entry key="modulegraph" value="" />
+        <entry key="modulegraph" value="0.12.1" />
         <entry key="modulemd" value="" />
         <entry key="modules" value="" />
         <entry key="modulo-python" value="" />
@@ -53521,7 +53521,7 @@
         <entry key="nos-python-sdk" value="" />
         <entry key="nosango" value="" />
         <entry key="noscrapy" value="" />
-        <entry key="nose" value="" />
+        <entry key="nose" value="1.3.7" />
         <entry key="nose-alembic-attrib" value="" />
         <entry key="nose-alert" value="" />
         <entry key="nose-allure-plugin" value="" />
@@ -53967,7 +53967,7 @@
         <entry key="numpee" value="" />
         <entry key="numpngw" value="" />
         <entry key="numprops" value="" />
-        <entry key="numpy" value="" />
+        <entry key="numpy" value="1.11.1" />
         <entry key="numpy-indexed" value="" />
         <entry key="numpy-mkl" value="" />
         <entry key="numpy-pypy" value="" />
@@ -56094,7 +56094,7 @@
         <entry key="pandapay" value="" />
         <entry key="pandarss" value="" />
         <entry key="pandarus" value="" />
-        <entry key="pandas" value="" />
+        <entry key="pandas" value="0.18.1" />
         <entry key="pandas-bamboo" value="" />
         <entry key="pandas-charm" value="" />
         <entry key="pandas-datareader" value="" />
@@ -57179,7 +57179,7 @@
         <entry key="pexcard" value="" />
         <entry key="pexdoc" value="" />
         <entry key="pexif" value="" />
-        <entry key="pexpect" value="" />
+        <entry key="pexpect" value="4.2.1" />
         <entry key="pexpect-nm" value="" />
         <entry key="pexpect-serial" value="" />
         <entry key="pexpect-u" value="" />
@@ -57490,7 +57490,7 @@
         <entry key="picklejar" value="" />
         <entry key="picklemigrate" value="" />
         <entry key="pickler" value="" />
-        <entry key="pickleshare" value="" />
+        <entry key="pickleshare" value="0.7.4" />
         <entry key="picklesize" value="" />
         <entry key="picklr" value="" />
         <entry key="pickly" value="" />
@@ -57749,7 +57749,7 @@
         <entry key="pion" value="" />
         <entry key="pioneeravclient" value="" />
         <entry key="pior" value="" />
-        <entry key="pip" value="" />
+        <entry key="pip" value="8.1.2" />
         <entry key="pip-Win" value="" />
         <entry key="pip-accel" value="" />
         <entry key="pip-autoremove" value="" />
@@ -59925,7 +59925,7 @@
         <entry key="psycopg" value="" />
         <entry key="psycopg-ct" value="" />
         <entry key="psycopg-postgis" value="" />
-        <entry key="psycopg2" value="" />
+        <entry key="psycopg2" value="2.6.2" />
         <entry key="psycopg2-ct" value="" />
         <entry key="psycopg2-dateutils" value="" />
         <entry key="psycopg2-managed-connection" value="" />
@@ -59994,7 +59994,7 @@
         <entry key="ptwit" value="" />
         <entry key="ptwitter" value="" />
         <entry key="ptypes" value="" />
-        <entry key="ptyprocess" value="" />
+        <entry key="ptyprocess" value="0.5.1" />
         <entry key="ptysh" value="" />
         <entry key="pu" value="" />
         <entry key="pu_in_content" value="" />
@@ -60523,7 +60523,7 @@
         <entry key="py211mm" value="" />
         <entry key="py25519" value="" />
         <entry key="py2FaceR" value="" />
-        <entry key="py2app" value="" />
+        <entry key="py2app" value="0.10" />
         <entry key="py2bit" value="" />
         <entry key="py2casefold" value="" />
         <entry key="py2ch" value="" />
@@ -60860,7 +60860,7 @@
         <entry key="pyOSCapi" value="" />
         <entry key="pyOURSE" value="" />
         <entry key="pyOfx" value="" />
-        <entry key="pyOpenSSL" value="" />
+        <entry key="pyOpenSSL" value="16.0.0" />
         <entry key="pyOpsMap" value="" />
         <entry key="pyOptoSigma" value="" />
         <entry key="pyOutlook" value="" />
@@ -62417,7 +62417,7 @@
         <entry key="pyfstorage" value="" />
         <entry key="pyft232" value="" />
         <entry key="pyftdi" value="" />
-        <entry key="pyftpdlib" value="" />
+        <entry key="pyftpdlib" value="1.5.1" />
         <entry key="pyftpdlib-ustcblog" value="" />
         <entry key="pyftpsync" value="" />
         <entry key="pyfttt" value="" />
@@ -63155,7 +63155,7 @@
         <entry key="pylinkmobile" value="" />
         <entry key="pylinktester" value="" />
         <entry key="pylinkvalidator" value="" />
-        <entry key="pylint" value="" />
+        <entry key="pylint" value="1.6.4" />
         <entry key="pylint-celery" value="" />
         <entry key="pylint-common" value="" />
         <entry key="pylint-django" value="" />
@@ -63714,73 +63714,73 @@
         <entry key="pyoauthverifyserver" value="" />
         <entry key="pyobj" value="" />
         <entry key="pyobjc" value="" />
-        <entry key="pyobjc-core" value="" />
+        <entry key="pyobjc-core" value="3.1.1" />
         <entry key="pyobjc-framework-AVFoundation" value="" />
         <entry key="pyobjc-framework-AVKit" value="" />
-        <entry key="pyobjc-framework-Accounts" value="" />
-        <entry key="pyobjc-framework-AddressBook" value="" />
-        <entry key="pyobjc-framework-AppleScriptKit" value="" />
-        <entry key="pyobjc-framework-AppleScriptObjC" value="" />
+        <entry key="pyobjc-framework-Accounts" value="3.1.1" />
+        <entry key="pyobjc-framework-AddressBook" value="3.1.1" />
+        <entry key="pyobjc-framework-AppleScriptKit" value="3.1.1" />
+        <entry key="pyobjc-framework-AppleScriptObjC" value="3.1.1" />
         <entry key="pyobjc-framework-ApplicationServices" value="" />
-        <entry key="pyobjc-framework-Automator" value="" />
-        <entry key="pyobjc-framework-CFNetwork" value="" />
+        <entry key="pyobjc-framework-Automator" value="3.1.1" />
+        <entry key="pyobjc-framework-CFNetwork" value="3.1.1" />
         <entry key="pyobjc-framework-CalendarStore" value="" />
         <entry key="pyobjc-framework-CloudKit" value="" />
-        <entry key="pyobjc-framework-Cocoa" value="" />
-        <entry key="pyobjc-framework-Collaboration" value="" />
+        <entry key="pyobjc-framework-Cocoa" value="3.1.1" />
+        <entry key="pyobjc-framework-Collaboration" value="3.1.1" />
         <entry key="pyobjc-framework-Contacts" value="" />
         <entry key="pyobjc-framework-ContactsUI" value="" />
         <entry key="pyobjc-framework-CoreBluetooth" value="" />
-        <entry key="pyobjc-framework-CoreData" value="" />
-        <entry key="pyobjc-framework-CoreLocation" value="" />
-        <entry key="pyobjc-framework-CoreText" value="" />
+        <entry key="pyobjc-framework-CoreData" value="3.1.1" />
+        <entry key="pyobjc-framework-CoreLocation" value="3.1.1" />
+        <entry key="pyobjc-framework-CoreText" value="3.1.1" />
         <entry key="pyobjc-framework-CoreWLAN" value="" />
         <entry key="pyobjc-framework-CryptoTokenKit" value="" />
-        <entry key="pyobjc-framework-DictionaryServices" value="" />
+        <entry key="pyobjc-framework-DictionaryServices" value="3.1.1" />
         <entry key="pyobjc-framework-DiskArbitration" value="" />
-        <entry key="pyobjc-framework-EventKit" value="" />
-        <entry key="pyobjc-framework-ExceptionHandling" value="" />
-        <entry key="pyobjc-framework-FSEvents" value="" />
+        <entry key="pyobjc-framework-EventKit" value="3.1.1" />
+        <entry key="pyobjc-framework-ExceptionHandling" value="3.1.1" />
+        <entry key="pyobjc-framework-FSEvents" value="3.1.1" />
         <entry key="pyobjc-framework-FinderSync" value="" />
         <entry key="pyobjc-framework-GameCenter" value="" />
         <entry key="pyobjc-framework-GameController" value="" />
         <entry key="pyobjc-framework-IMServicePlugIn" value="" />
         <entry key="pyobjc-framework-IOSurface" value="" />
         <entry key="pyobjc-framework-ImageCaptureCore" value="" />
-        <entry key="pyobjc-framework-InputMethodKit" value="" />
-        <entry key="pyobjc-framework-InstallerPlugins" value="" />
-        <entry key="pyobjc-framework-InstantMessage" value="" />
+        <entry key="pyobjc-framework-InputMethodKit" value="3.1.1" />
+        <entry key="pyobjc-framework-InstallerPlugins" value="3.1.1" />
+        <entry key="pyobjc-framework-InstantMessage" value="3.1.1" />
         <entry key="pyobjc-framework-InterfaceBuilderKit" value="" />
-        <entry key="pyobjc-framework-LatentSemanticMapping" value="" />
-        <entry key="pyobjc-framework-LaunchServices" value="" />
+        <entry key="pyobjc-framework-LatentSemanticMapping" value="3.1.1" />
+        <entry key="pyobjc-framework-LaunchServices" value="3.1.1" />
         <entry key="pyobjc-framework-LocalAuthentication" value="" />
         <entry key="pyobjc-framework-MapKit" value="" />
         <entry key="pyobjc-framework-MediaAccessibility" value="" />
         <entry key="pyobjc-framework-MediaLibrary" value="" />
-        <entry key="pyobjc-framework-Message" value="" />
+        <entry key="pyobjc-framework-Message" value="3.1.1" />
         <entry key="pyobjc-framework-MultipeerConnectivity" value="" />
         <entry key="pyobjc-framework-NetFS" value="" />
         <entry key="pyobjc-framework-NetworkExtension" value="" />
         <entry key="pyobjc-framework-NotificationCenter" value="" />
-        <entry key="pyobjc-framework-OpenDirectory" value="" />
+        <entry key="pyobjc-framework-OpenDirectory" value="3.1.1" />
         <entry key="pyobjc-framework-Photos" value="" />
         <entry key="pyobjc-framework-PhotosUI" value="" />
-        <entry key="pyobjc-framework-PreferencePanes" value="" />
-        <entry key="pyobjc-framework-PubSub" value="" />
-        <entry key="pyobjc-framework-QTKit" value="" />
-        <entry key="pyobjc-framework-Quartz" value="" />
+        <entry key="pyobjc-framework-PreferencePanes" value="3.1.1" />
+        <entry key="pyobjc-framework-PubSub" value="3.1.1" />
+        <entry key="pyobjc-framework-QTKit" value="3.1.1" />
+        <entry key="pyobjc-framework-Quartz" value="3.1.1" />
         <entry key="pyobjc-framework-SceneKit" value="" />
-        <entry key="pyobjc-framework-ScreenSaver" value="" />
-        <entry key="pyobjc-framework-ScriptingBridge" value="" />
-        <entry key="pyobjc-framework-SearchKit" value="" />
+        <entry key="pyobjc-framework-ScreenSaver" value="3.1.1" />
+        <entry key="pyobjc-framework-ScriptingBridge" value="3.1.1" />
+        <entry key="pyobjc-framework-SearchKit" value="3.1.1" />
         <entry key="pyobjc-framework-ServerNotification" value="" />
-        <entry key="pyobjc-framework-ServiceManagement" value="" />
-        <entry key="pyobjc-framework-Social" value="" />
+        <entry key="pyobjc-framework-ServiceManagement" value="3.1.1" />
+        <entry key="pyobjc-framework-Social" value="3.1.1" />
         <entry key="pyobjc-framework-SpriteKit" value="" />
         <entry key="pyobjc-framework-StoreKit" value="" />
-        <entry key="pyobjc-framework-SyncServices" value="" />
-        <entry key="pyobjc-framework-SystemConfiguration" value="" />
-        <entry key="pyobjc-framework-WebKit" value="" />
+        <entry key="pyobjc-framework-SyncServices" value="3.1.1" />
+        <entry key="pyobjc-framework-SystemConfiguration" value="3.1.1" />
+        <entry key="pyobjc-framework-WebKit" value="3.1.1" />
         <entry key="pyobjc-framework-XgridFoundation" value="" />
         <entry key="pyobjcryst" value="" />
         <entry key="pyocb" value="" />
@@ -63917,7 +63917,7 @@
         <entry key="pyparsec" value="" />
         <entry key="pyparser" value="" />
         <entry key="pyparseuri" value="" />
-        <entry key="pyparsing" value="" />
+        <entry key="pyparsing" value="2.1.8" />
         <entry key="pyparsing_helper" value="" />
         <entry key="pyparts" value="" />
         <entry key="pyparty" value="" />
@@ -65949,7 +65949,7 @@
         <entry key="python-datemath" value="" />
         <entry key="python-datetime-tz" value="" />
         <entry key="python-datetime2" value="" />
-        <entry key="python-dateutil" value="" />
+        <entry key="python-dateutil" value="2.5.3" />
         <entry key="python-db" value="" />
         <entry key="python-dbusmock" value="" />
         <entry key="python-dbusx" value="" />
@@ -67334,7 +67334,7 @@
         <entry key="pytype" value="" />
         <entry key="pytypo" value="" />
         <entry key="pytyrant" value="" />
-        <entry key="pytz" value="" />
+        <entry key="pytz" value="2016.6.1" />
         <entry key="pytz-memcache" value="" />
         <entry key="pytzpure" value="" />
         <entry key="pyuarm" value="" />
@@ -69109,7 +69109,7 @@
         <entry key="redirect-streams" value="" />
         <entry key="redirectall" value="" />
         <entry key="redirector" value="" />
-        <entry key="redis" value="" />
+        <entry key="redis" value="2.10.5" />
         <entry key="redis-astra" value="" />
         <entry key="redis-cache" value="" />
         <entry key="redis-cirrus" value="" />
@@ -69759,7 +69759,7 @@
         <entry key="requestests" value="" />
         <entry key="requestions" value="" />
         <entry key="requeston" value="" />
-        <entry key="requests" value="" />
+        <entry key="requests" value="2.11.1" />
         <entry key="requests-aeaweb" value="" />
         <entry key="requests-aliyun" value="" />
         <entry key="requests-auth-mashery" value="" />
@@ -70836,14 +70836,14 @@
         <entry key="rpyc" value="" />
         <entry key="rpyc-op" value="" />
         <entry key="rpython" value="" />
-        <entry key="rq" value="" />
+        <entry key="rq" value="0.6.0" />
         <entry key="rq-cli" value="" />
         <entry key="rq-dash" value="" />
         <entry key="rq-dashboard" value="" />
         <entry key="rq-gevent-worker" value="" />
         <entry key="rq-monitor" value="" />
         <entry key="rq-retry" value="" />
-        <entry key="rq-scheduler" value="" />
+        <entry key="rq-scheduler" value="0.7.0" />
         <entry key="rq-scheduler-dashboard" value="" />
         <entry key="rq-worker" value="" />
         <entry key="rqalpha" value="" />
@@ -71948,7 +71948,7 @@
         <entry key="sciplot-pyqt" value="" />
         <entry key="sciplotpy" value="" />
         <entry key="sciproc" value="" />
-        <entry key="scipy" value="" />
+        <entry key="scipy" value="0.18.0" />
         <entry key="scipy-data_fitting" value="" />
         <entry key="scipydirect" value="" />
         <entry key="scirocco-pyclient" value="" />
@@ -72843,7 +72843,7 @@
         <entry key="setuppycheck" value="" />
         <entry key="setuptize_me" value="" />
         <entry key="setuptool" value="" />
-        <entry key="setuptools" value="" />
+        <entry key="setuptools" value="26.0.0" />
         <entry key="setuptools-bower" value="" />
         <entry key="setuptools-ci" value="" />
         <entry key="setuptools-clonedigger" value="" />
@@ -73926,7 +73926,7 @@
         <entry key="siva" value="" />
         <entry key="sivart" value="" />
         <entry key="sivel-test" value="" />
-        <entry key="six" value="" />
+        <entry key="six" value="1.10.0" />
         <entry key="sixelplot" value="" />
         <entry key="sixelterm" value="" />
         <entry key="sixer" value="" />
@@ -80097,7 +80097,7 @@
         <entry key="training" value="" />
         <entry key="trait_documenter" value="" />
         <entry key="traitar" value="" />
-        <entry key="traitlets" value="" />
+        <entry key="traitlets" value="4.2.2" />
         <entry key="traits" value="" />
         <entry key="traits-enaml" value="" />
         <entry key="traitscli" value="" />
@@ -83008,7 +83008,7 @@
         <entry key="virtualchain" value="" />
         <entry key="virtualdc" value="" />
         <entry key="virtualecologist" value="" />
-        <entry key="virtualenv" value="" />
+        <entry key="virtualenv" value="15.0.3" />
         <entry key="virtualenv-activator" value="" />
         <entry key="virtualenv-api" value="" />
         <entry key="virtualenv-bin" value="" />
@@ -84189,7 +84189,7 @@
         <entry key="whatthepatch" value="" />
         <entry key="whatthewhat" value="" />
         <entry key="whatwhen" value="" />
-        <entry key="wheel" value="" />
+        <entry key="wheel" value="0.29.0" />
         <entry key="wheel2conda" value="" />
         <entry key="wheelbarrow" value="" />
         <entry key="wheelbuilder" value="" />
@@ -84798,7 +84798,7 @@
         <entry key="wrapit" value="" />
         <entry key="wrapnumpy3" value="" />
         <entry key="wrappers" value="" />
-        <entry key="wrapt" value="" />
+        <entry key="wrapt" value="1.10.8" />
         <entry key="wrapt-bootstrap" value="" />
         <entry key="wrapt-patches" value="" />
         <entry key="wraptest" value="" />
@@ -85073,7 +85073,7 @@
         <entry key="xaql" value="" />
         <entry key="xarn_asodb" value="" />
         <entry key="xarray" value="" />
-        <entry key="xattr" value="" />
+        <entry key="xattr" value="0.8.0" />
         <entry key="xaxtsuxo" value="" />
         <entry key="xb" value="" />
         <entry key="xbcf" value="" />
@@ -86978,7 +86978,7 @@
         <entry key="zope.i18n" value="" />
         <entry key="zope.i18nmessageid" value="" />
         <entry key="zope.index" value="" />
-        <entry key="zope.interface" value="" />
+        <entry key="zope.interface" value="4.2.0" />
         <entry key="zope.intid" value="" />
         <entry key="zope.introspector" value="" />
         <entry key="zope.introspectorui" value="" />
