@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Database view" shouldLog="false" />
+  </component>
+</application>
