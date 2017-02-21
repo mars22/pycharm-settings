@@ -1,0 +1,3 @@
+<templateSet group="Python">
+  <template name="pdb" value="import pgb; pdb.set_trace()" description="import pdb" toReformat="false" toShortenFQNames="true" />
+</templateSet>
