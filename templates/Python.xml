@@ -1,3 +1,7 @@
 <templateSet group="Python">
-  <template name="pdb" value="import pgb; pdb.set_trace()" description="import pdb" toReformat="false" toShortenFQNames="true" />
+  <template name="pdb" value="import pdb; pdb.set_trace()" description="import pdb" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
