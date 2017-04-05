@@ -4,4 +4,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="write_fun" value="import codecs&#10;with codecs.open('tr.html', 'w', 'utf-8') as f:&#10;  f.write(html)" description="write to file" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
