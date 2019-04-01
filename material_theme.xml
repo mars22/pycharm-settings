@@ -2,6 +2,8 @@
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="1" />
+    <option name="accentColor" value="e99840" />
     <option name="userId" value="171035d6:169d7be7b79:-8000" />
     <option name="version" value="3.8.0.2" />
   </component>
