@@ -16,7 +16,6 @@
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <Python>
-    <option name="SPACE_BEFORE_LBRACKET" value="true" />
     <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
     <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
   </Python>
@@ -31,8 +30,6 @@
   <codeStyleSettings language="Python">
     <option name="RIGHT_MARGIN" value="120" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="false" />
-    <option name="SPACE_BEFORE_METHOD_CALL_PARENTHESES" value="true" />
-    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <option name="SOFT_MARGINS" value="120" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
