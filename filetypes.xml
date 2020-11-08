@@ -6,10 +6,10 @@
       <mapping ext="jinja" type="Jinja2" />
       <mapping pattern=".docker_env" type="PLAIN_TEXT" />
       <mapping pattern="homefine" type="PLAIN_TEXT" />
-      <mapping pattern=".ENTITY.XML.swp" type="PLAIN_TEXT" />
       <mapping pattern=".editorconf" type="PLAIN_TEXT" />
       <mapping pattern="e" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".ENTITY.XML.swp" type="PLAIN_TEXT" />
       <mapping ext="gateway_local" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
@@ -18,13 +18,13 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="local" type="Vue.js" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping ext="local" type="Vue.js" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
